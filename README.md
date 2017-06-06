@@ -1,7 +1,7 @@
-# Exercícios do segundo bimestre de SO
+# Exercícios do segundo bimestre de Sistemas Operacionais
 # Nome:
-Victor Machado Lobo da Silva
+Lucas Leonam Dias
 # RA:
-1600594
+1600416
 # Curso:
-ADS 3B
+Análise e Desenvolvimento de Sistemas, 3.B
